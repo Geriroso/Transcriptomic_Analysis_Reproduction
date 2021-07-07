@@ -1,0 +1,68 @@
+	nCov1	nCov2	Ctrl1	Ctrl2	Ctrl3
+Adipocytes	0	0	0	0	0
+Astrocytes	0	0	0	0	0
+B-cells	0	8e-04	0.0028	0	0
+Basophils	0.0081	0	5e-04	0	0.0411
+CD4+ T-cells	0	0	0.006	0.0056	0.0053
+CD4+ Tcm	0	0	0.025	0.0227	0.0236
+CD4+ Tem	0	0	0	0	0
+CD4+ memory T-cells	0	0	0	0	0
+CD4+ naive T-cells	0	0	0.0143	0.0155	0.0204
+CD8+ T-cells	0	0	0.0028	0.0067	0.0068
+CD8+ Tcm	0	0.0018	0	0	0
+CD8+ Tem	0.0086	0	0.0055	0.0125	0.0038
+CD8+ naive T-cells	0.0114	0.0063	0	0	0
+CLP	0	0	0	0	0
+CMP	0	0	0	0	0
+Chondrocytes	0	0	0	0	0
+Class-switched memory B-cells	0	0	0.0069	1e-04	0
+DC	0	0	0	0	0
+Endothelial cells	0	0	0	0	0
+Eosinophils	0	0	0.0017	0	0
+Epithelial cells	0.0442	0.0432	0	0	0
+Erythrocytes	0	0	0	0	0
+Fibroblasts	0	0	0	0	0
+GMP	0.1463	0	6e-04	0	0.0048
+HSC	0.0953	0.0076	0	0	0
+Hepatocytes	0	0	0	0	0
+Keratinocytes	0.0112	0.0135	0	0	0
+MEP	0	0	0.0236	0.0202	0.0105
+MPP	0	0	0.0048	0.0077	0.0084
+MSC	0	0.2004	0.1896	0.2283	0.2224
+Macrophages	0	0	0.0023	0.0031	0.0013
+Macrophages M1	0	0	0	0	0
+Macrophages M2	0	0	0.0074	0.0096	0.0047
+Mast cells	0	0.0095	0.0239	0.0228	0.0192
+Megakaryocytes	0	8e-04	0	0	0
+Melanocytes	0	0	3e-04	9e-04	0
+Memory B-cells	0	0	0	0	0
+Mesangial cells	0.0013	0	0	0	0
+Monocytes	0.0015	0	0	0	0.0014
+Myocytes	0	0	0	0	0
+NK cells	0	0	0	0	0
+NKT	0	0.007	0.04	0.0269	0.0339
+Neurons	2e-04	7e-04	0	0	0
+Neutrophils	0.0037	0	0	0	0
+Osteoblast	0	0	0.055	0.0089	0.0404
+Pericytes	0.0366	0	0.0846	0.0564	0.0502
+Plasma cells	0.0095	0.0088	0	0	0
+Platelets	0	6e-04	0	0	0
+Preadipocytes	0	0	0	0	0
+Sebocytes	0.0033	0.0032	0	0	0
+Skeletal muscle	0	0	0	0	0
+Smooth muscle	0.0633	0.0388	0	0	0
+Tgd cells	0	0	0	0	0
+Th1 cells	0	0	0	0	0
+Th2 cells	0.0712	0	0.0043	0.0077	0.0039
+Tregs	0	0.0042	0	0	0
+aDC	8e-04	0	0	0	0
+cDC	0	1e-04	0.0203	0.0175	0.0065
+iDC	0	0	0.0348	0.0537	1e-04
+ly Endothelial cells	0	0	0	0	0
+mv Endothelial cells	0	0	0.0129	0.0089	0.0125
+naive B-cells	0	0	0	0	0
+pDC	0.0103	0	0	0	0
+pro B-cells	0	0	0	0	0
+ImmuneScore	0.0035	0.0069	0.0263	0.0255	0.0227
+StromaScore	0	0	0	0	0
+MicroenvironmentScore	0.0035	0.0069	0.0263	0.0255	0.0227
